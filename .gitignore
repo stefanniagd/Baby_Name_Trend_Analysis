@@ -1,0 +1,6 @@
+.idea/
+.venv/
+build/
+.env
+__pycache__
+baby_names_analysis.ipynb
